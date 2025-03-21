@@ -85,5 +85,4 @@ boudaliaymene4@gmail.com
 ---
 
 > Made with ❤️ by developers, for developers.  
-> ✨ **Tip Jar**: If you love NovaPad, star our repo and share with your squad!  
-```
+> ✨ **Tip Jar**: If you love NovaPad, star our repo and share with your squad!
