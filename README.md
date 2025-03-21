@@ -19,11 +19,9 @@
 - **New**/**Open**/**Save**/**Save As** – Work smarter with intuitive file controls.  
 - 🚀 **Large File Support** – Open 100MB+ files without breaking a sweat!  
 
-### ✂ **Edit Like a Pro**  
-```markdown
+### ✂ **Edit Like a Pro**
 - Undo/Redo ∞ times (Never lose progress!)
 - Clipboard Magic: **Cut** | **Copy** | **Paste** | **Delete**
-```
 
 ### 🔍 **Find & Replace Revolution**  
 ![Find & Replace Demo](images/find.jpg)  
@@ -35,8 +33,8 @@
 ### 🌗 **Dark Mode Bliss**  
 ![Dark Mode Showcase](images/darkmode.jpg)  
 *Protect your eyes during late-night coding sessions! Switch between:*  
-- **Midnight Dark** (Default)  
-- **Solar Light**  
+- **Solar Light**  (Default)
+- **Midnight Dark**
 
 ---
 
@@ -53,7 +51,7 @@
 
 ## 🛠️ **Installation in 3...2...1...**  
 
-1. Download `NovaPad_Setup.exe` from [Releases](https://github.com/yourrepo/novapad/releases)  
+1. Download `Setup.exe` from [Releases](https://github.com/Aymene21/NovaNad/releases)  
 2. **Double-click** the installer  
 3. Follow the friendly setup wizard 🧙♂️  
 4. **Launch** and start creating! 🎉  
