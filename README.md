@@ -1,4 +1,4 @@
-# 🚀 NovaPad - Modern Text Editor `V1.0.2` 
+# 🚀 NovaPad - Modern Text Editor `V2.1.0`  
 
 ![NovaPad Interface Preview](images/interface.jpg)  
 *Your new favorite text companion – sleek, fast, and powerful!*  
@@ -24,17 +24,33 @@
 - Clipboard Magic: **Cut** | **Copy** | **Paste** | **Delete**
 
 ### 🔍 **Find & Replace Revolution**  
-![Find & Replace Demo](images/find.jpg)  
+![Find & Replace Demo](images/finds_replace.jpg)  
 *Instantly locate text or swap phrases globally with our smart tools!*  
 
-![Replace in Action](images/replace.jpg)  
-*Batch replacements made simple – perfect for code/script edits!*  
+> [!tip]  
+> Use **Ctrl+F** to quickly open the Find & Replace dialog and streamline your editing workflow!
 
 ### 🌗 **Dark Mode Bliss**  
-![Dark Mode Showcase](images/darkmode.jpg)  
+![Dark Mode Showcase](images/theme_system.jpg)  
 *Protect your eyes during late-night coding sessions! Switch between:*  
 - **Solar Light**  (Default)
 - **Midnight Dark**
+
+> [!note]  
+> NovaPad now supports **system theme synchronization**! It automatically adjusts to your OS theme settings for a seamless experience.
+
+---
+
+## 🆕 **What's New in v2.1.0**  
+![What's New](images/whats_new.jpg)  
+
+- **System Theme Sync**: NovaPad now adapts to your OS theme (Light/Dark).  
+- **Enhanced Find & Replace**: Improved performance and usability.  
+- **New Icons**: Refreshed UI for a modern look.  
+- **Bug Fixes**: Smoother performance and fewer crashes.  
+
+> [!warning]  
+> If you're upgrading from a previous version, ensure you back up your settings file (`settings.json`) to avoid losing custom configurations.
 
 ---
 
@@ -55,6 +71,9 @@
 2. **Double-click** the installer  
 3. Follow the friendly setup wizard 🧙♂️  
 4. **Launch** and start creating! 🎉  
+
+> [!tip]  
+> For portable use, download the **ZIP version** from the releases page and extract it to your desired location. No installation required!
 
 ---
 
@@ -83,4 +102,4 @@ boudaliaymene4@gmail.com
 ---
 
 > Made with ❤️ by developers, for developers.  
-> ✨ **Tip Jar**: If you love NovaPad, star our repo and share with your squad!
+> ✨ **Tip Jar**: If you love NovaPad, star our repo and share with your squad!  
