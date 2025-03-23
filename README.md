@@ -50,7 +50,7 @@
 - **Bug Fixes**: Smoother performance and fewer crashes.  
 
 > [!warning]  
-> If you're upgrading from a previous version, ensure you back up your settings file (`settings.json`) to avoid losing custom configurations.
+> If you're upgrading from a previous version, ensure you back up your settings file (`config.json`) to avoid losing custom configurations.
 
 ---
 
